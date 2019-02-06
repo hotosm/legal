@@ -1,8 +1,9 @@
 # legal
-**Work is in progress.** A repo for privacy policy and other web related policies or instructions. 
+
+A repo for privacy policy and other web related policies or instructions. 
 
 ### Current activity focused on: 
-* Draft version of Privacy Policy. See [draft #1](https://github.com/hotosm/legal/pull/1) for latest version. 
+* First version of [Privacy Policy](https://github.com/hotosm/legal/blob/master/Privacy-Policy.md) available (last update Feb 5, 2019)
 
 ### Other future work will focus on: 
 * Adding specific terms of service for tools
